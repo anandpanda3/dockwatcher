@@ -58,7 +58,7 @@ To build Docker Watcher from source, follow these steps:
 
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/ravanbod/dockerwatcher.git
+    git clone https://github.com/anandpanda3/dockwatcher.git
     cd dockerwatcher
     ```
 
@@ -73,7 +73,7 @@ To build Docker Watcher with docker, follow these steps:
 
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/ravanbod/dockerwatcher.git
+    git clone https://github.com/anandpanda3/dockwatcher.git
     cd dockerwatcher
     ```
 
